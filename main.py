@@ -1,5 +1,2 @@
-def print_hello():
-    print("hello")
-
-if __name__ == "__main__":
-    print_hello()
+def greet_white():
+    print("hello white")
